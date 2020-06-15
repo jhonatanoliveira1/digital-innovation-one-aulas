@@ -1,0 +1,46 @@
+body {
+    background: rgb(216, 216, 216);
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+
+h1 {
+    color: rgb(102, 101, 122);
+    font-size: 30px;
+    font-family:  monospace;
+}
+
+h2 {
+    font-family: monospace;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+footer {
+    margin: 0;
+    text-align: center;
+    color: white;
+    background-color: rgb(80, 74, 74);
+    vertical-align: auto;
+    letter-spacing: 2px;
+    padding: 5px;
+}
+
+.img-padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img-contatos {
+    margin-top: 4px;
+    width: 30px;
+}
+
+.img-parceiros {
+    margin-top: 4px;
+    width: 150px;
+}
