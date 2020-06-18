@@ -8,26 +8,35 @@ section {
 }
 
 .navbar {
-  background-color: #4c4892;
-  color: white;
+  background-color: #6f84be;
 }
 
 .fonte {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.quem-somos {
-  background-color: #b7e1f6;
-  color: white;
-}
-
 .margin {
-  padding-top:40px;
+  padding-top:10px;
   padding-bottom: 40px;
 }
 
-.margin-img {
+.margin-quemsomos {
   width: 300px;
   height: 300px;
   padding: 20px;
+}
+
+.margin-parceiros {
+  width: 100%;
+  padding: 20px;
+}
+
+.quem-somos {
+  background-color: #4b59a4;
+  color: white;
+}
+
+.parceiros {
+  background-color: #6b4c97;
+  color: white;
 }
