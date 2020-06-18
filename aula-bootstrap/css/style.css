@@ -31,6 +31,11 @@ section {
   padding: 20px;
 }
 
+.margin-servicos {
+  width: 100%;
+  padding: 20px;
+}
+
 .quem-somos {
   background-color: #4b59a4;
   color: white;
@@ -38,5 +43,14 @@ section {
 
 .parceiros {
   background-color: #6b4c97;
+  color: white;
+}
+.servicos {
+  background-color: #393589;
+  color: white;
+}
+
+.footer {
+  background-color: black;
   color: white;
 }
