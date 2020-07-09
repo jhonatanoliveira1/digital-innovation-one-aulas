@@ -1,0 +1,13 @@
+{
+  "name": "aula-test-driven-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha tests/findCrushList.js"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "should": "^13.2.3"
+  }
+}
